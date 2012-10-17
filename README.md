@@ -83,6 +83,17 @@ $("#ajax-typeahead").typeahead({
 			// We good!
 			return data.mylist;
 		}
+	},
+	onSelection: function(obj){
+		if(obj == null)
+		{
+			console.log("user did not select anything");
+		}
+		else
+		{
+			console.log("user made selection - ");
+			console.log(obj);
+		}
 	}
 });
 ```
