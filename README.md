@@ -1,7 +1,7 @@
 Ajax Typeahead
 ============
 
-Modifications to the Bootstrap Typeahead plugin to give it ajax capabilities. This is based on https://github.com/220Tech/twitter-typeahead-ajax.
+Modifications to the Bootstrap Typeahead plugin to give it ajax capabilities. This is based on https://github.com/pwarelis/Ajax-Typeahead.
 
 
 How to Use
