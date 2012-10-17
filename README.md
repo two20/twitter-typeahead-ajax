@@ -105,5 +105,4 @@ Contact
 
 info at 220tech doc co dot in
 
-pwarelis at gmail dot com
 
