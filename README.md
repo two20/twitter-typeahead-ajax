@@ -103,6 +103,6 @@ Enjoy!
 Contact
 -------
 
-info at 220tech doc co dot in
+info at 220tech dot co dot in
 
 
